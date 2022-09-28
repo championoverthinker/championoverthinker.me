@@ -1,0 +1,6 @@
+baseURL = 'https://bespoke-blini-bf95e9.netlify.app'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ink'
+[params]
+        mode = "auto"
